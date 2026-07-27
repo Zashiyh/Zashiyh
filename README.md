@@ -70,13 +70,14 @@ Hi, I'm **Sashika Madhushan** 👋
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Cloud & Tools
+### Cloud, Tools & API Testing
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -139,6 +140,15 @@ Hi, I'm **Sashika Madhushan** 👋
 
 ---
 
+## 🛠️ API Testing & Development Tools
+
+- **Postman** - API Development & Testing
+- **REST API** - Designing & Consuming RESTful Services
+- **API Documentation** - Swagger/OpenAPI
+- **Authentication** - JWT, OAuth2
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -166,6 +176,7 @@ Hi, I'm **Sashika Madhushan** 👋
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sashika-madhushan)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94758178178)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashika.madhushan@email.com)
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/your-workspace)
   
 </div>
 
@@ -175,7 +186,7 @@ Hi, I'm **Sashika Madhushan** 👋
 
 <div align="center">
   
-  💻 Full-Stack Developer &nbsp;|&nbsp; 📱 Android Developer &nbsp;|&nbsp; ☁️ Cloud Enthusiast &nbsp;|&nbsp; 🤖 AI Developer &nbsp;|&nbsp; 🗄️ Database Developer &nbsp;|&nbsp; 🎮 Gaming & Content Creator
+  💻 Full-Stack Developer &nbsp;|&nbsp; 📱 Android Developer &nbsp;|&nbsp; ☁️ Cloud Enthusiast &nbsp;|&nbsp; 🤖 AI Developer &nbsp;|&nbsp; 🗄️ Database Developer &nbsp;|&nbsp; 🎮 Gaming & Content Creator &nbsp;|&nbsp; 🛠️ API Testing Expert
 
 </div>
 
