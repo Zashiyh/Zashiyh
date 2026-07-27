@@ -187,7 +187,7 @@ Hi, I'm **Sashika Madhushan** 👋
 
 <div align="center">
   
-  [![Portfolio Website]([https://img.shields.io/badge/](https://sashikaportfolio.vercel.app/)🚀_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+  [![Portfolio Website](https://img.shields.io/badge/🚀_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
   
   > Check out my personal portfolio to see all my projects, skills, and experience!
   
