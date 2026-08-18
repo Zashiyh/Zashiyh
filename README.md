@@ -89,7 +89,7 @@ Hi, I'm **Sashika Madhushan** 👋
 **Technologies:** Next.js • TypeScript • Tailwind CSS • MongoDB • REST API
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://bookinglk2-0.vercel.app/)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://bookinglk2-0.vercel.app/)
 
 ---
 
