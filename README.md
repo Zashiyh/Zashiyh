@@ -1,247 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,45:7C3AED,100:00F5FF&height=230&section=header&text=SASHIKA%20MADUSHAN&fontSize=44&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Software%20Engineering%20Undergraduate%20%7C%20NIBM%2C%20Sri%20Lanka&descSize=15&descColor=94A3B8&descAlignY=62" width="100%" alt="Sashika Madushan - Software Engineering Undergraduate" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sashika%20Madhushan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55)
 
-<h3>Software Engineer &bull; Full Stack Developer &bull; Cloud Computing Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Building+Modern+Software+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p>
-I build database-driven web and mobile applications, design REST APIs,<br/>
-and I'm looking for an internship where I can work on production-level software.
+</div>
+
+---
+
+## 👋 About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+Hi, I'm **Sashika Madhushan** 👋
+
+🎓 Software Engineering Undergraduate at **National Institute of Business Management (NIBM), Sri Lanka**
+
+💻 Passionate about building modern **Full-Stack Web Applications, Mobile Applications and Scalable Software Solutions.**
+
+🚀 Interested in:
+- Full-Stack Development
+- Backend Engineering
+- Cloud Computing
+- Database Systems
+- Networking & Infrastructure
+
+### 📚 Currently Learning
+- ☁️ AWS Cloud Computing
+- 🔥 Advanced Backend Development
+- 🌐 System Design
+- 🤖 AI Application Development
+
+### 💼 Open For
+- Software Engineering Internships
+- Junior Software Engineer Roles
+- Freelance Projects
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Mobile Development
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Cloud, Tools & API Testing
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 BookingLK - Hotel Booking Platform
+> A modern hotel booking web application with user authentication, hotel management and database integration.
+
+**Technologies:** Next.js • TypeScript • Tailwind CSS • MongoDB • REST API
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://bookinglk2-0.vercel.app/)
+
+---
+
+### 🤖 IntelliChat AI
+> AI-powered chatbot application with modern chat interface and backend API integration.
+
+**Technologies:** React • TypeScript • Tailwind CSS • FastAPI • MongoDB
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+---
+
+### 🏪 SmartPOS Pro
+> A complete Point of Sale management system designed for supermarkets and businesses.
+
+**Features:**
+- Product Management
+- Inventory Control
+- Sales Management
+- Customer Management
+- Reports
+
+**Technologies:** Next.js • Node.js • MongoDB • REST API
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-pos-indol.vercel.app/)
+
+---
+
+### 📱 Traveler Mobile Application
+> Social travel application for sharing travel experiences, photos and locations.
+
+**Technologies:** Kotlin • Jetpack Compose • Firebase
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+---
+
+## ☁️ Cloud & Networking Knowledge
+
+- ☁️ AWS Cloud Fundamentals
+- 🚀 Cloud Deployment Concepts
+- 🌐 REST API Architecture
+- 📊 Database Management
+- 🔗 LAN/WAN Networking
+- 🔧 Network Troubleshooting
+- 📝 Version Control
+
+---
+
+## 🛠️ API Testing & Development Tools
+
+- **Postman** - API Development & Testing
+- **REST API** - Designing & Consuming RESTful Services
+- **API Documentation** - Swagger/OpenAPI
+- **Authentication** - JWT, OAuth2
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zashiyh&label=Profile%20Views&color=6c5ce7&style=flat" alt="Profile Views"/>
 </p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=520&height=45&lines=Software+Engineer;Full+Stack+Developer;Frontend+Developer;Cloud+Computing+Enthusiast;Cyber+Security+Learner" alt="Typing animation: Software Engineer, Full Stack Developer, Frontend Developer, Cloud Computing Enthusiast, Cyber Security Learner" />
-</a>
+<div align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Zashiyh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zashiyh&theme=tokyonight&hide_border=true"/>
+  
+  <br/>
+  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zashiyh&layout=compact&theme=tokyonight"/>
+  
+</div>
 
-<br/><br/>
+---
 
-<a href="https://github.com/Zashiyh"><img src="https://img.shields.io/badge/GitHub-Zashiyh-030712?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=030712&color=1E293B" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/sashika-madushan-448612299/"><img src="https://img.shields.io/badge/LinkedIn-Sashika%20Madushan-030712?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=030712&color=1E293B" alt="LinkedIn profile" /></a>
-<a href="https://sashikaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-sashikaportfolio.vercel.app-030712?style=for-the-badge&logo=vercel&logoColor=7C3AED&labelColor=030712&color=1E293B" alt="Portfolio website" /></a>
-<a href="https://www.linkedin.com/in/sashika-madushan-448612299/"><img src="https://img.shields.io/badge/Message%20me-on%20LinkedIn-030712?style=for-the-badge&logo=gmail&logoColor=F472B6&labelColor=030712&color=1E293B" alt="Contact via LinkedIn" /></a>
+## 🤝 Connect With Me
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zashiyh)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sashika-madhushan)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94758178178)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashika.madhushan@email.com)
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/your-workspace)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sashikaportfolio.vercel.app/)
+  
+</div>
+
+---
+
+## 🌐 My Portfolio
+
+<div align="center">
+  
+  [![Portfolio Website](https://img.shields.io/badge/🚀_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sashikaportfolio.vercel.app/)
+  
+  > Check out my personal portfolio to see all my projects, skills, and experience!
+  
+</div>
+
+---
+
+## ⚡ Quick Facts
+
+<div align="center">
+  
+  💻 Full-Stack Developer &nbsp;|&nbsp; 📱 Android Developer &nbsp;|&nbsp; ☁️ Cloud Enthusiast &nbsp;|&nbsp; 🤖 AI Developer &nbsp;|&nbsp; 🗄️ Database Developer &nbsp;|&nbsp; 🎮 Gaming & Content Creator &nbsp;|&nbsp; 🛠️ API Testing Expert
 
 </div>
 
-<br/>
-
-## About Me
-
-I'm **H.M.S.M Sashika Madushan Herath**, a Software Engineering undergraduate at the **National Institute of Business Management (NIBM), Sri Lanka**.
-
-Most of my work so far has been full-stack: Next.js and TypeScript on the front, REST APIs on the back, and MongoDB or MySQL underneath. I've built a hotel booking platform with role-based dashboards, a tea factory management system that tracks daily leaf collections and payments, a supermarket app in React Native, and a POS system for small businesses.
-
-I like projects where the data model, the API design and the interface all have to work together. I'm also learning cloud computing, cyber security and system design so that what I build is easier to deploy, secure and scale. I try to learn by shipping: pick a real problem, build it end to end, deploy it, then fix what breaks.
-
-<br/>
-
-## Current Focus
-
-- **Building:** production-ready full-stack applications
-- **Learning:** Cloud Computing, Cyber Security, Advanced Backend Development, System Design, DevOps fundamentals
-- **Looking for:** Software Engineering, Full Stack, Frontend, Backend, Cloud and QA internships
-- **Open to:** collaboration on interesting software projects
-
-<br/>
-
-## Tech Stack
+---
 
 <div align="center">
 
-<p><sub><b>LANGUAGES</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=java,cs,kotlin,php,js,ts,html,css&theme=dark" alt="Java, C#, Kotlin, PHP, JavaScript, TypeScript, HTML, CSS" /></p>
-
-<br/>
-
-<p><sub><b>FRONTEND</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" alt="React, Next.js, Tailwind CSS, Figma" /></p>
-
-<br/>
-
-<p><sub><b>BACKEND</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=nodejs,php&theme=dark" alt="Node.js, PHP" /><br/>
-<sub>REST APIs &bull; Authentication (JWT) &bull; Backend architecture</sub></p>
-
-<br/>
-
-<p><sub><b>MOBILE</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=react,flutter,kotlin,androidstudio&theme=dark" alt="React Native, Flutter, Kotlin, Android Studio" /><br/>
-<sub>React Native &bull; Expo &bull; Flutter &bull; FlutterFlow</sub></p>
-
-<br/>
-
-<p><sub><b>DATABASES</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="MySQL, MongoDB, Firebase" /></p>
-
-<br/>
-
-<p><sub><b>CLOUD &amp; DEVOPS</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=vercel,git,github&theme=dark" alt="Vercel, Git, GitHub" /><br/>
-<sub>Cloud computing fundamentals &bull; Networking fundamentals &bull; Web and API deployment</sub></p>
-
-<br/>
-
-<p><sub><b>TOOLS &amp; DESIGN</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,ps,ai&theme=dark" alt="VS Code, Android Studio, Figma, Photoshop, Illustrator" /><br/>
-<sub>UI/UX &bull; Software Testing / QA &bull; Graphic, logo and poster design &bull; Video editing &bull; Microsoft Office</sub></p>
-
-</div>
-
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zashiyh&show_icons=true&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=94A3B8&icon_color=7C3AED&ring_color=00F5FF" alt="GitHub stats for Zashiyh" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Zashiyh&hide_border=true&background=030712&ring=7C3AED&fire=F472B6&currStreakNum=22D3EE&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak stats for Zashiyh" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zashiyh&layout=compact&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=94A3B8" alt="Most used languages on GitHub" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zashiyh&bg_color=030712&color=22D3EE&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&title_color=00F5FF" alt="GitHub contribution activity graph" />
-
-</div>
-
-<br/>
-
-## Featured Projects
-
-### BookingLK
-
-> A production-style Sri Lankan hotel booking platform for discovering and booking hotels, resorts, villas, guest houses and apartments.
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,mongodb,nodejs&theme=dark" alt="Next.js, TypeScript, Tailwind CSS, MongoDB, Node.js" /><br/>
-<sub>Framer Motion &bull; Mongoose &bull; React Hook Form &bull; Zod &bull; Axios &bull; JWT &bull; bcrypt &bull; REST API</sub>
-
-- Location-based hotel discovery, destination search, filtering and detailed hotel pages
-- Booking system with QR-based booking confirmation
-- Separate user, hotel owner and admin dashboards with role-based access control
-- Authentication, favorites and reviews
-- Responsive UI with dark/light theme
-
-<a href="https://bookinglk2-0.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00F5FF?style=flat-square&logo=vercel&logoColor=030712" alt="BookingLK live demo" /></a>
-<a href="https://github.com/Zashiyh?tab=repositories"><img src="https://img.shields.io/badge/More%20on%20GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="More projects on GitHub" /></a>
-
-<br/>
-
-### Cooroonduwatte Tea Management System
-
-> A tea factory management web application for handling tea leaf collections, suppliers, areas, payments and monthly reports.
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,mongodb&theme=dark" alt="Next.js, TypeScript, Tailwind CSS, MongoDB" /><br/>
-<sub>Mongoose &bull; REST APIs</sub>
-
-- Area and supplier management with supplier records
-- Daily tea collection and tea leaf weight tracking
-- Factory scale comparison against recorded weights
-- Monthly dashboards, payment tracking and reports
-- User management with a database-driven, real-time UI
-
-<a href="https://github.com/Zashiyh?tab=repositories"><img src="https://img.shields.io/badge/More%20on%20GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="More projects on GitHub" /></a>
-
-<br/>
-
-### SuperMart
-
-> An online supermarket platform with a mobile-first shopping experience.
-
-<img src="https://skillicons.dev/icons?i=react,js,ts&theme=dark" alt="React Native, JavaScript, TypeScript" /><br/>
-<sub>React Native &bull; Expo &bull; REST APIs</sub>
-
-- Product browsing and category navigation
-- Product detail pages and shopping cart
-- API integration with a modern, responsive supermarket UI
-- Mobile application built with React Native and Expo
-
-<a href="https://github.com/Zashiyh?tab=repositories"><img src="https://img.shields.io/badge/More%20on%20GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="More projects on GitHub" /></a>
-
-<br/>
-
-### SmartPOS
-
-> A modern point-of-sale and business management system built around a real-world retail workflow.
-
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark" alt="Next.js, Node.js, MongoDB" /><br/>
-<sub>REST API</sub>
-
-- Point of Sale flow for processing sales
-- Product management and sales management
-- Inventory concepts such as stock tracking
-- Database integration and a clean, modern UI
-- Designed around how a supermarket or small shop actually operates
-
-<a href="https://smart-pos-indol.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00F5FF?style=flat-square&logo=vercel&logoColor=030712" alt="SmartPOS live demo" /></a>
-<a href="https://github.com/Zashiyh?tab=repositories"><img src="https://img.shields.io/badge/More%20on%20GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="More projects on GitHub" /></a>
-
-<br/>
-
-## Career Goals
-
-I'm actively developing my software engineering skills and looking for an internship where I can get practical industry experience and contribute to production-level projects. I'm interested in roles across:
-
-- Software Engineering
-- Full Stack Development
-- Frontend Development
-- Backend Development
-- Cloud Computing
-- Networking
-- QA / Software Testing
-
-I'd like to learn how professional teams plan, review, test and deploy software, and apply that to the projects I build.
-
-<br/>
-
-## Learning Roadmap
-
-**Completed / Current**
-
-- &#10003; Software Engineering fundamentals
-- &#10003; Web development
-- &#10003; Database development
-- &#10003; REST API development
-- &#10003; Git &amp; GitHub
-- &#10003; UI/UX fundamentals
-
-**Currently improving**
-
-- &rarr; Advanced Full Stack Development
-- &rarr; Cloud Computing
-- &rarr; Cyber Security
-- &rarr; System Design
-- &rarr; DevOps
-
-**Future**
-
-- &rarr; Cloud Architecture
-- &rarr; Distributed Systems
-- &rarr; Advanced Security
-- &rarr; Scalable Backend Systems
-
-<br/>
-
-## Contact
-
-The best way to reach me is through GitHub or LinkedIn. I'm happy to talk about internships, projects or collaboration.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sashika-madushan-448612299/"><img src="https://img.shields.io/badge/LinkedIn-Connect-030712?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=030712&color=1E293B" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/Zashiyh"><img src="https://img.shields.io/badge/GitHub-Follow-030712?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=030712&color=1E293B" alt="Follow on GitHub" /></a>
-<a href="https://sashikaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-030712?style=for-the-badge&logo=vercel&logoColor=7C3AED&labelColor=030712&color=1E293B" alt="Visit portfolio" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=94A3B8&center=true&vCenter=true&width=480&height=35&lines=Thanks+for+visiting+my+profile!;Let's+build+something+meaningful+together." alt="Thanks for visiting my profile! Let's build something meaningful together." />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Zashiyh&label=Profile+views&color=7C3AED&style=flat-square" alt="Profile views counter" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,45:7C3AED,100:00F5FF&height=110&section=footer" width="100%" alt="Footer wave" />
+## 🚀 Always Building. Always Learning.
 
 </div>
