@@ -1,3 +1,5 @@
+
+
 👋 About Me 
 
 Hi, I'm Sashika Madhushan 👋
@@ -92,4 +94,3 @@ Check out my personal portfolio to see all my projects, skills, and experience!
 
 🚀 Always Building. Always Learning. 
 
-meka thwa hodata update karla denna hader eke htma line ekk penna eka hdala mobile respons karla hdla denna 
