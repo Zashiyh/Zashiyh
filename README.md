@@ -1,30 +1,45 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    SASHIKA MADUSHAN — PROFILE                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
+<!-- ─── HERO BANNER ─── -->
 <a href="https://github.com/Zashiyh">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,50:0B1120,100:111827&customColorList=6,11,20&text=SASHIKA%20MADUSHAN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud%20Computing%20Enthusiast&descSize=16&descAlignY=60&descAlign=50&animation=twinkling&stroke=00F5FF&strokeWidth=1" alt="Sashika Madushan - Software Engineer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:030712,50:0B1120,100:111827&text=SASHIKA%20MADUSHAN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=60&descAlign=50&animation=twinkling&stroke=00F5FF&strokeWidth=1" alt="Sashika Madushan banner" width="100%"/>
 </a>
 
 <br/>
 
+<!-- ─── ANIMATED TYPING ROLES ─── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;Frontend+Developer;Cloud+Computing+Enthusiast;Cyber+Security+Learner" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+real-world+software+solutions;Full+Stack+%7C+Mobile+%7C+Cloud;Open+to+Internship+Opportunities" alt="Typing roles"/>
 </a>
 
 <br/><br/>
 
+<!-- ─── SOCIAL BADGES ─── -->
 <a href="https://github.com/Zashiyh">
-  <img src="https://img.shields.io/badge/GitHub-Zashiyh-030712?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Zashiyh-181717?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/sashika-madushan-448612299/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sashika%20Madushan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sashika_Madushan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://sashikaportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
+<!-- ─── PROFILE VIEWS ─── -->
 <img src="https://komarev.com/ghpvc/?username=Zashiyh&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/>
+
+<!-- ─── ANIMATED FLOWING LINE (under profile views) ─── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=4&width=100%&section=header&animation=twinkling&reversal=true" alt="animated flowing line"/>
+
+<br/>
 
 </div>
 
@@ -33,8 +48,6 @@
 ## 👨‍💻 About Me
 
 I'm **Sashika Madushan**, a **Software Engineering undergraduate at the National Institute of Business Management (NIBM), Sri Lanka**, focused on building practical software solutions across web, mobile, backend, databases and cloud technologies.
-
-My current professional positioning is:
 
 > **Software Engineer (Undergraduate) · Full Stack Developer · Cloud Computing Enthusiast**
 
@@ -53,7 +66,6 @@ I'm particularly interested in turning real-world requirements into clean, maint
 - Cloud and web deployment fundamentals
 - Networking and infrastructure fundamentals
 - Software testing and QA
-- UI/UX and product-focused development
 
 ---
 
@@ -100,59 +112,74 @@ Collaboration on interesting software projects, practical development opportunit
 
 # 🛠️ Technology Stack
 
+<div align="center">
+
 ### Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,kotlin,php,js,ts,html,css" alt="Programming languages"/>
 </p>
 
+<br/>
+
 ### Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend technologies"/>
 </p>
 
+<br/>
+
 ### Backend & APIs
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,php,express" alt="Backend technologies"/>
 </p>
 
+<br/>
+
 ### Mobile
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" alt="Mobile development technologies"/>
 </p>
 
+<br/>
+
 ### Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Database technologies"/>
 </p>
 
+<br/>
+
 ### Cloud & Deployment
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vercel" alt="Cloud and deployment technologies"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Cloud%20Computing-Fundamentals-030712?style=flat-square&logo=icloud&logoColor=22D3EE" alt="Cloud Computing fundamentals"/>
   <img src="https://img.shields.io/badge/Networking-Fundamentals-030712?style=flat-square&logo=cisco&logoColor=22D3EE" alt="Networking fundamentals"/>
   <img src="https://img.shields.io/badge/REST%20APIs-Development-030712?style=flat-square&logo=fastapi&logoColor=22D3EE" alt="REST API development"/>
 </p>
 
-### Tools & Design
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai" alt="Development and design tools"/>
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development tools"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/FlutterFlow-Development-030712?style=flat-square&logo=flutter&logoColor=22D3EE" alt="FlutterFlow"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-030712?style=flat-square&logo=figma&logoColor=F472B6" alt="UI UX"/>
   <img src="https://img.shields.io/badge/Software%20Testing-QA-030712?style=flat-square&logo=testinglibrary&logoColor=22D3EE" alt="Software Testing and QA"/>
 </p>
+
+</div>
 
 ---
 
@@ -164,7 +191,7 @@ Collaboration on interesting software projects, practical development opportunit
   <img src="https://github-readme-stats.vercel.app/api?username=Zashiyh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&bg_color=030712" alt="Sashika's GitHub statistics" width="49%"/>
 </a>
 <a href="https://github.com/Zashiyh">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Zashiyh&hide_border=true&background=030712&ring=7C3AED&fire=F472B6&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="Sashika's GitHub streak" width="49%"/>
+  <img src="https://streak-stats.vercel.app?user=Zashiyh&hide_border=true&background=030712&ring=7C3AED&fire=F472B6&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="Sashika's GitHub streak" width="49%"/>
 </a>
 
 <br/><br/>
@@ -353,7 +380,7 @@ My goal is to continue strengthening my engineering fundamentals, work with expe
 <div align="center">
 
 <a href="https://github.com/Zashiyh">
-  <img src="https://img.shields.io/badge/GitHub-Zashiyh-030712?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-Zashiyh-030712?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub profile"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sashika-madushan-448612299/">
